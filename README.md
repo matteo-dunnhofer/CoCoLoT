@@ -20,6 +20,7 @@ OS: Ubuntu 20.04
 
 
 ### VOT-LT test instructions
+
 To run the VOT Challenge Long-term experiments please follow these instructions:
 
 + Clone the repository ``git clone https://github.com/matteo-dunnhofer/CoCoLoT``
@@ -44,10 +45,10 @@ and do the same in the file ``trackers.ini`` by substituting the paths ``[full-p
 + Run the evaluation by ``vot analysis CoCoLoT`` 
 
 
-### If you fail to run our tracker please write to ``matteo.dunnhofer@uniud.it``
+#### If you fail to run our tracker please write to ``matteo.dunnhofer@uniud.it``
 
 
-### An improved version of CoCoLoT (submitted to the VOT2022 Challenge) exploiting Stark and KeepTrack is downloadable [here](http://data.votchallenge.net/vot2022/trackers/CoCoLoT-code-2022-04-28T08_08_35.527492.zip).
+#### An improved version of CoCoLoT (submitted to the VOT2022 Challenge) exploiting Stark and KeepTrack is downloadable [here](http://data.votchallenge.net/vot2022/trackers/CoCoLoT-code-2022-04-28T08_08_35.527492.zip).
 
 
 ### References
@@ -86,3 +87,5 @@ The code presented here is built up on the following repositories:
  + [pytracking](https://github.com/visionml/pytracking)
  + [Stark](https://github.com/researchmm/Stark)
  + [LTMU](https://github.com/Daikenan/LTMU)
+
+Copyright © Machine Learning and Perception Lab - University of Udine - 2021 - 2022
